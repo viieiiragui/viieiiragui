@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi, my name is Guilherme Vieira 👋
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/viieiiragui)](https://github.com/viieiiragui)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/viieiiragui/)](https://www.linkedin.com/in/fagnerpsantos/)
+
+### About me
+I'm an intern FullStack Developer. At the current company where I work, I use AdobeXD for prototyping, back-end with node and front-end with react, react native, typescript, html and css.
 
 <!--
 **viieiiragui/viieiiragui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
