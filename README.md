@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/viieiiragui/)](https://www.linkedin.com/in/viieiiragui/)
 
 ### About me
-I'm an Front-end Developer. At the current company where I work, I use AdobeXD and Figma for prototyping and work at front-end with React, Typescript and Vite.
+I'm an Front-end Developer. At the current company where I work, I use AdobeXD and Figma for prototyping and work with Typescript and React.
 
 <!--
 **viieiiragui/viieiiragui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
